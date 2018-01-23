@@ -1,0 +1,53 @@
+@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
+
+
+
+#header1-1 H1 {
+  font-family: 'Montserrat', sans-serif;
+}
+#header1-1 .btn {
+  font-family: 'Montserrat', sans-serif;
+}
+#contacts3-o P {
+  color: #000000;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 15px;
+}
+
+
+
+
+
+
+#header2-6 H1 {
+  font-family: 'Montserrat', sans-serif;
+}
+#header2-6 P {
+  text-align: left;
+  font-family: 'Montserrat', sans-serif;
+}
+#header2-6 .btn {
+  font-family: 'Montserrat', sans-serif;
+}
+#msg-box1-s H2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 46px;
+  color: #0275d8;
+}
+#msg-box1-s .btn {
+  font-family: 'Montserrat', sans-serif;
+}
+#footer1-v P {
+  font-family: 'Montserrat', sans-serif;
+}
+
+
+#form1-a .mbr-section-title {
+  font-family: 'Montserrat', sans-serif;
+  color: #ffffff;
+}
+#contacts1-d P {
+  text-align: left;
+  font-size: 15px;
+  font-family: 'Montserrat', sans-serif;
+}
